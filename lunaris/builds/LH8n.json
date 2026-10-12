@@ -1,0 +1,28 @@
+{
+  "response": [
+    {
+      "maintainer": "Xiannn",
+      "oem": "Tecno",
+      "device": "LH8n",
+      "filename": "Lunaris-v3.12-20261001-GMS-Community-LH8n.zip",
+      "download": "https://github.com/Swaggyxren/ota/releases",
+      "timestamp": 1790851863,
+      "md5": "",
+      "sha256": "lunaris_lh8n_20261001",
+      "size": 0,
+      "version": "3.12",
+      "buildtype": "Community",
+      "forum": "",
+      "gapps": "Included",
+      "firmware": "",
+      "modem": "",
+      "bootloader": "",
+      "recovery": "",
+      "paypal": "",
+      "telegram": "",
+      "dt": "https://github.com/Swaggyxren/android_device_tecno_LH8n",
+      "common-dt": "",
+      "kernel": "https://github.com/Swaggyxren/android_kernel_tecno_LH8n"
+    }
+  ]
+}

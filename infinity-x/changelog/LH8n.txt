@@ -1,0 +1,5 @@
+Project Infinity-X 4.0 (Android 17 / Baklava) Community Release for Tecno POVA 5 Pro 5G (LH8n)
+- Initial Android 17 bringup
+- MediaTek Dimensity 6080 power and scheduling optimization
+- Native 120Hz refresh rate support
+- Audio offload & low-latency MMAP enabled

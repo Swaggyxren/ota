@@ -1,0 +1,5 @@
+Lunaris AOSP Community Release for Tecno POVA 5 Pro 5G (LH8n)
+- Android 16 QPR1 rebase
+- MT6833 modern EAS scheduler integration
+- Bypass charging and RGB glyph daemon support
+- Hi-Res / 32-bit audio pipeline enabled

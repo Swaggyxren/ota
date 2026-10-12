@@ -1,0 +1,28 @@
+{
+  "response": [
+    {
+      "maintainer": "Xiannn",
+      "oem": "Tecno",
+      "device": "LH8n",
+      "filename": "Project_Infinity-X-4.0-LH8n-20261008-GAPPS-UNOFFICIAL.zip",
+      "download": "https://github.com/Swaggyxren/ota/releases",
+      "timestamp": 1791441998,
+      "md5": "",
+      "sha256": "infinityx_lh8n_20261008",
+      "size": 0,
+      "version": "4.0",
+      "buildtype": "Community",
+      "forum": "",
+      "gapps": "Included",
+      "firmware": "",
+      "modem": "",
+      "bootloader": "",
+      "recovery": "",
+      "paypal": "",
+      "telegram": "",
+      "dt": "https://github.com/Swaggyxren/android_device_tecno_LH8n",
+      "common-dt": "",
+      "kernel": "https://github.com/Swaggyxren/android_kernel_tecno_LH8n"
+    }
+  ]
+}
