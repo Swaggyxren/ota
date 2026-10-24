@@ -1,13 +1,18 @@
-{
-  "response": [
-    {
-      "datetime": 1792842493,
-      "filename": "lineage-24.0-20261024-UNOFFICIAL-LH8n.zip",
-      "id": "6498de466e9e963eacd134f7bc1913db8aa73f3e9d4a02d18550c50a33744c71",
-      "romtype": "unofficial",
-      "size": 1515141239,
-      "url": "https://github.com/Swaggyxren/ota/releases/download/v24.0/lineage-24.0-20261024-UNOFFICIAL-LH8n.zip",
-      "version": "24.0"
-    }
-  ]
-}
+[
+  {
+    "datetime": 1792842493,
+    "files": [
+      {
+        "filename": "lineage-24.0-20261024-UNOFFICIAL-LH8n.zip",
+        "os_patch_level": "2026-10-01",
+        "os_sdk_level": 37,
+        "ota_property_files": "payload_metadata.bin:4313:130582,payload.bin:4313:1515133486,payload_properties.txt:1515137857:156,apex_info.pb:1934:1484,care_map.pb:3465:801,metadata:69:673,metadata.pb:810:1076",
+        "sha256": "6498de466e9e963eacd134f7bc1913db8aa73f3e9d4a02d18550c50a33744c71",
+        "size": 1515141239,
+        "url": "https://github.com/Swaggyxren/ota/releases/download/v24.0/lineage-24.0-20261024-UNOFFICIAL-LH8n.zip"
+      }
+    ],
+    "type": "UNOFFICIAL",
+    "version": "24.0"
+  }
+]
