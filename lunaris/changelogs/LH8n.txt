@@ -1,5 +1,18 @@
-Lunaris AOSP Community Release for Tecno POVA 5 Pro 5G (LH8n)
-- Android 16 QPR1 rebase
-- MT6833 modern EAS scheduler integration
-- Bypass charging and RGB glyph daemon support
-- Hi-Res / 32-bit audio pipeline enabled
+Lunaris AOSP v3.13 for Tecno POVA 5 Pro 5G (LH8n)
+
+ROM Source Changelog:
+- https://github.com/Lunaris-AOSP/changelogs
+
+Device Tree Changes:
+- Switched to Millennium source-built Goodix Fingerprint HAL
+- Switched to source-built AIDL Codec2 HAL service
+- Attempted fix for video freeze, buffer queue starvation & playback drops
+- Fixed Bluetooth audio volume scaling and absolute volume control
+- Migrated Wi-Fi to standard upstream NL80211 driver interface
+- Auto-mount internal storage on boot (temporary workaround until upstream Lunaris fixes the storage lifecycle)
+- Disabled broken GMS shared connectivity service background loop
+- General performance and subsystem stability improvements
+
+Links & Support:
+- Updates Channel: https://t.me/tp5pupdate
+- Community Forum: https://t.me/tecnopova5p
