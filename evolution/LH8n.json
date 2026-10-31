@@ -1,0 +1,23 @@
+{
+  "response": [
+    {
+      "maintainer": "Xiannn",
+      "currently_maintained": true,
+      "oem": "Tecno",
+      "device": "LH8n",
+      "filename": "EvolutionX-17.0-20261031-LH8n-12.3-Unofficial.zip",
+      "download": "https://downloads.sourceforge.net/project/xiannn-rom/My-ROM/Evo-X/EvolutionX-17.0-20261031-LH8n-12.3-Unofficial.zip",
+      "timestamp": 1793413070,
+      "md5": "63bb96aad7355afa311fb1ce90e93e05",
+      "sha256": "222b1b3089323f593e93111b890f08ba09d8002faac6b343a3fea5efc69e51a6",
+      "size": 2723788881,
+      "version": "12.3",
+      "buildtype": "user",
+      "forum": "https://t.me/tecnopova5p",
+      "telegram": "https://t.me/tp5pupdate",
+      "github": "Swaggyxren",
+      "initial_installation_images": [],
+      "extra_images": []
+    }
+  ]
+}

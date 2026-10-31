@@ -26,6 +26,11 @@ Centralized Over-The-Air (OTA) update endpoint repository serving custom ROMs fo
   - Vanilla Builds: [`infinity-x/vanilla/LH8n.json`](infinity-x/vanilla/LH8n.json)
   - Changelog: [`infinity-x/changelog/LH8n.txt`](infinity-x/changelog/LH8n.txt)
 
+### Evolution X (`evolution/`)
+- **Wiring**: `evolution.updater.uri` in `lineage_LH8n.mk`
+- **Endpoint Pattern**: `https://raw.githubusercontent.com/Swaggyxren/ota/main/evolution/{device}.json`
+  - Builds: [`evolution/LH8n.json`](evolution/LH8n.json)
+
 ---
 
 ## 2. Release Instructions
