@@ -11,6 +11,8 @@
       "sha256": "45d9532dbfdc66dfe25a375f14eb53abb74dcec64f02dbf0e0f1818a7212560d",
       "size": 2703978272,
       "version": "3.13",
+      "os_patch_level": "2026-10-01",
+      "os_sdk_level": 36,
       "buildtype": "Community",
       "forum": "https://t.me/tecnopova5p",
       "gapps": "Included",
