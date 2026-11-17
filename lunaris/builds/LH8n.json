@@ -2,7 +2,7 @@
     "response": [
         {
             "maintainer": "xiannn",
-            "oem": "",
+            "oem": "Tecno",
             "device": "LH8n",
             "filename": "Lunaris-AOSP-LH8n-Community-3.13-GMS-2026111505.zip",
             "download": "https://drive.usercontent.google.com/download?id=1742DWn-tJzifJCuShRUKOvOuvtQmHW-r&export=download&confirm=t",
@@ -14,17 +14,17 @@
             "os_patch_level": "2026-11-01",
             "os_sdk_level": 36,
             "buildtype": "Community",
-            "forum": "",
+            "forum": "https://t.me/tecnopova5p",
             "gapps": "Included",
             "firmware": "",
             "modem": "",
             "bootloader": "",
             "recovery": "",
             "paypal": "",
-            "telegram": "",
-            "dt": "",
+            "telegram": "https://t.me/tp5pupdate",
+            "dt": "https://github.com/Swaggyxren/android_device_tecno_LH8n",
             "common-dt": "",
-            "kernel": ""
+            "kernel": "https://github.com/Swaggyxren/android_kernel_tecno_LH8n"
         }
     ]
 }
