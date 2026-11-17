@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1790917211,
-            "filename": "axion-2.8-ONEIRA_FINAL-20261002-UNOFFICIAL-CORE-LH8n.zip",
-            "id": "axion_lh8n_20261002",
+            "datetime": 1794713451,
+            "filename": "axion-2.9-NOESIS-20261115-UNOFFICIAL-CORE-LH8n.zip",
+            "id": "83e4aea7d0a8109f0fb12b38b2da5606",
             "romtype": "UNOFFICIAL",
-            "size": 0,
-            "url": "https://github.com/Swaggyxren/ota/releases",
-            "version": "2.8"
+            "size": 2087424488,
+            "url": "https://drive.usercontent.google.com/download?id=1wR4vre4JaJTrhP3I-MJBy_PjwQdTnYNr&export=download&confirm=t",
+            "version": "2.9"
         }
     ]
 }
